@@ -11,3 +11,5 @@ Implementing linear SVM method using scikit library this is done by first Loadin
 CONCLUSION:
 
 from the program we can see that the kernel svc has a better accuracy and this is because the kernel svc is better fitted to split the positive and negative data in any dimentions, whereas the Naïve Bayes method is better fitted to train simple binary data and has better speed. The given dataset is a moderately sized dataset with complex dicision boundaries so svc model performed better.
+
+VIDEO LINK: https://share.vidyard.com/watch/5P7tJstgJyM6LgMBU5rdGR?
